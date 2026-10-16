@@ -1,0 +1,10 @@
+{
+  "name": "AvatarKu 3D Studio",
+  "description": "Studio Foto Avatar 3D interaktif untuk murid dan keluarga — ambil gambar, buang latar belakang secara automatik, padankan wajah pada 18 avatar 3D dan cetak pada saiz 4R & A4.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
